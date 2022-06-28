@@ -1,0 +1,14 @@
+		body {
+			background-color:powderblue;
+			
+		}
+		img {
+			display: block;
+			margin: auto;
+			width: 50%;
+		}
+		h2 {
+			display: block;
+			margin: auto;
+			width: 10%;
+		}
